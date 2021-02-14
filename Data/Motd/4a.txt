@@ -1,0 +1,4 @@
+
+Skills/Stats
+======
+-Stat gain should be 100% fixed now.  

@@ -1,0 +1,14 @@
+Public Ventrilo Server Now Up
+
+We currently have a 50 man ventrilo server and will probably be upgrading to a 100 man ventrilo server next month. When you connect to the ventrilo server please take the time to read the MOTD that pops up for detailed instructions.
+The ventrilo information is :  ip/ doom15.nrgservers.net  port: 3531
+
+Crafting
+========
+-You can no longer craft bola balls.
+
+Misc
+====
+-You can no longer mount if you have a bola ball target up.
+-Accuracy of a bola now depends on your tactics, its roughly 1 percent per 1 tactics chance.
+-Vendors should no longer take up secures and lockdowns in a house.

@@ -1,0 +1,9 @@
+A couple of new fixes and some changes have been implemented
+
+Loot drops will now be more accurate to this period style of Ultima Online
+
+A few update bugs have been worked out and fixed
+
+We have compiled a list of things to do and will be working very hard on them over the next week or so to get everything possible fixed and changed so that the shard reflects the style of Uo we are playing in
+
+If you see anything else that needs fixing please feel free to page as we will make a log of it and note it for our develpoers and take all ideas into consideration

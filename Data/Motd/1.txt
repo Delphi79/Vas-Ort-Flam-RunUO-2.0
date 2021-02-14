@@ -1,0 +1,13 @@
+Explosion Potions - There will now be a 4 second delay before being able to throw another purple potion
+
+Secured Housing - You will now be able to have secured containers in your house; however, If you lock a container down all contents inside will be lootable, so lock down at your own risk
+
+Customized Housing - You will now be able to customize your houses as designs you like rather then the same old same old housing
+
+Stat Gain - Stat gain how now been fixed back to normal
+
+Mana Regeneration - Mana regeneration will now be slightly faster then it has been.
+
+Damage Tables - Some damage tables have been fixed now. What this means is that now fencers will be able to deliver paralyzing blows, also swordsmen will be able to deliver concussion blows with axers and macers will be able to deliver crushing blows
+
+Old Message System - The current [c Message system has been disabled for now till the new one arrives

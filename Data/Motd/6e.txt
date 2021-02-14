@@ -1,0 +1,19 @@
+Misc
+====
+-Minor adjustment to the way bugs are sorted on [viewbugs.
+-You will no longer be able to recall or gate in or out of faction bases.
+-Bear masks have been added as loot to a specific monster.
+
+Pets
+====
+-If a pet is peaced and something hits it, the peace ends and the pet is active again.
+
+Notoriety
+=========
+-[UNTESTED] Reds should be able to heal reds in town without flagging criminal.
+-Corpse notoriety should be fixed.
+
+Skills
+======
+-Resist has been slightly tweaked.
+-Meditation was slightly tweaked, it should now be easier to successfully meditate. 

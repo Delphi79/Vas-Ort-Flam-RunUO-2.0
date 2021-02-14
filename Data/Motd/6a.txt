@@ -1,0 +1,8 @@
+Misc
+====
+-Fixed a bug in the displaying of armor names.
+-Fixed a bug in the displaying of wand names.
+-Fixed a bug in the displaying of weapon names.
+-Guard regions were all adjusted.
+-All magic items that are ientified are only identified to the person(s) who have identified them.  If you ID a item and hand it to someone it will not be ID'd to them unless they ID it themselves.
+-Added a Bug Tracker.  To add a bug please use [Addbug, to view the list of bugs or comments and status of a bug you have listed use [ViewBugs.  Please do not abuse this system. Please verify that a bug you find hasnt already been listed and please only put valid bugs on the list.

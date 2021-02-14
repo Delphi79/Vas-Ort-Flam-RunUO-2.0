@@ -1,0 +1,19 @@
+Graphics
+=======
+Some of the monster graphics have been changed back to 2d
+
+Loot Drops
+=======
+The Loot Pack has been updated to reflect this period of uo almost perfectly.
+
+Monster Bash Arena
+=======
+The old Monster Bash Arena started off with 500 monsters, it will now start with 200 monsters.
+
+World Spawn
+=======
+The world spawn and dungeon spawn will now reflect this period of uo better then in the past.
+
+Some spawn was not implemented with the new super spawner system, we are tweaking these areas fear not.
+
+Treasure chests will now be appearing in the dungeons for you hard core lockpickers.

@@ -1,0 +1,14 @@
+Misc
+====
+-Wands will no longer be ID'd, you will need to ID them.
+-Spawned trapped chests should no longer execute their trap until lockpicked.
+-Custom houses should allow you to ban players once again.
+-Corpse notoriety should be fixed.
+-Summoned Daemons should cost 3 pet slots instead of 5.
+-The help stuck menu should now work in dungeons.
+-Faction notoriety should come before Murderer notoriety now.
+
+Skills
+======
+-Item Identification will now identify Items.
+-Stealing was adjusted slightly.

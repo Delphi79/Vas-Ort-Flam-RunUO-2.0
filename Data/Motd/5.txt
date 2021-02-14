@@ -1,0 +1,20 @@
+Combat
+======
+-Fixed poisoned for weapons.
+-Attack message shows to everyone within 10 tiles of a attack.
+-Training weapons are now in.
+
+Crafting
+========
+-Fixed tinker trapped boxes.
+
+Misc
+====
+-All release command now works.
+-Added murderer title.
+-Fixed help gump to display and direct to information reguarding Project X.
+
+Mobiles
+=======
+-Mobiles will not longer heal or teleport.
+-Tweaked mount stamina.

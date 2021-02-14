@@ -1,0 +1,148 @@
+overrideid 191
+overridemap 1
+overridemintime 5
+overridemaxtime 10
+## By Nerun
+##
+## Shame Dungeon
+##
+##
+## Level 1
+##
+* Earthelemental 5404 93 10 2 2 10 30 30 1 2
+* Scorpion 5404 92 10 2 2 10 30 30 1 1
+* Earthelemental 5425 58 10 2 5 10 30 30 1 3
+* Scorpion 5425 59 10 2 5 10 30 30 1 3
+* Earthelemental 5387 41 20 2 2 10 30 30 1 2
+* Scorpion 5387 40 20 2 2 10 30 30 1 1
+* Earthelemental 5394 11 30 2 2 10 30 30 1 2
+* Earthelemental 5474 20 0 2 2 10 30 30 1 3
+* Earthelemental 5477 67 20 2 2 10 30 30 1 2
+* Scorpion 5477 66 20 2 2 10 30 30 1 2
+* Earthelemental 5468 109 35 2 2 10 30 30 1 2
+* Scorpion 5468 110 35 2 2 10 30 30 1 1
+* TreasureChestLevel1 5423 112 0 2 1 2 1 1 1 1
+* TreasureChestLevel1 5468 106 35 2 1 2 1 1 1 1
+* TreasureChestLevel1 5434 100 20 2 1 2 1 1 1 1
+* TreasureChestLevel1 5492 56 20 2 1 2 1 1 1 1
+* TreasureChestLevel1 5416 59 -15 2 1 2 1 1 1 1
+* TreasureChestLevel1 5400 45 30 2 1 2 1 1 1 1
+* TreasureChestLevel1 5448 33 -10 2 1 2 1 1 1 1
+* TreasureChestLevel1 5437 11 0 2 1 2 1 1 1 1
+* TreasureChestLevel1 5399 11 30 2 1 2 1 1 1 1
+* TreasureChestLevel2 5421 117 0 2 1 2 1 1 1 1
+* TreasureChestLevel2 5468 100 35 2 1 2 1 1 1 1
+* TreasureChestLevel2 5392 10 30 2 1 2 1 1 1 1
+* TreasureChestLevel2 5445 12 0 2 1 2 1 1 1 1
+* TreasureChestLevel2 5404 43 30 2 1 2 1 1 1 1
+* TreasureChestLevel2 5443 36 -10 2 1 2 1 1 1 1
+* TreasureChestLevel2 5402 58 -20 2 1 2 1 1 1 1
+* TreasureChestLevel2 5493 51 20 2 1 2 1 1 1 1
+* TreasureChestLevel2 5434 89 20 2 1 2 1 1 1 1
+##
+## Level 2
+##
+* Airelemental 5575 16 10 2 2 10 30 15 1 2
+* Airelemental 5568 36 0 2 2 10 30 15 1 1
+* Airelemental 5549 60 0 2 2 10 30 15 1 2
+* Waterelemental 5550 60 0 2 2 10 30 15 1 1
+* Waterelemental 5550 79 0 2 2 10 30 15 1 2
+* TreasureChestLevel1 5536 119 -5 2 1 2 1 1 1 1
+* TreasureChestLevel2 5546 118 -5 2 1 2 1 1 1 1
+* TreasureChestLevel2 5606 25 10 2 1 2 1 1 1 1
+* TreasureChestLevel2 5570 118 5 2 1 2 1 1 1 1
+* TreasureChestLevel3 5620 21 10 2 1 2 1 1 1 1
+* TreasureChestLevel3 5572 113 5 2 1 2 1 1 1 1
+* TreasureChestLevel3 5546 113 -5 2 1 2 1 1 1 1
+##
+## Level 3
+##
+* Earthelemental 5474 139 20 2 2 10 30 15 1 2
+* Fireelemental 5477 183 0 2 2 10 30 15 1 1
+* Poisonelemental 5477 184 0 2 2 10 30 15 1 1
+* Waterelemental 5469 210 0 2 2 10 25 12 1 1
+* Evilmage 5441 187 0 2 2 10 30 15 1 5
+* Evilmagelord 5440 187 0 2 2 10 30 15 1 3
+* Airelemental 5412 164 0 2 2 10 30 15 1 2
+* Earthelemental 5412 163 0 2 2 10 30 15 1 2
+* Fireelemental 5411 163 0 2 2 10 30 15 1 1
+* Poisonelemental 5411 162 0 2 2 10 30 15 1 1
+* Scorpion 5412 162 0 2 2 10 30 15 1 1
+* Airelemental 5412 201 0 2 2 10 30 15 1 1
+* Earthelemental 5413 201 0 2 2 10 30 15 1 1
+* Fireelemental 5412 200 0 2 2 10 30 15 1 1
+* Poisonelemental 5413 200 0 2 2 10 30 15 1 1
+* Scorpion 5411 200 0 2 2 10 30 15 1 1
+* Airelemental 5394 230 10 2 2 10 30 15 1 2
+* Dullcopperelemental 5527 210 0 2 2 10 30 15 1 2
+* Fireelemental 5526 210 0 2 2 10 30 15 1 2
+* Waterelemental 5557 221 0 2 2 10 25 12 1 2
+* Evilmage 5577 194 0 2 2 10 30 15 1 5
+* Evilmagelord 5576 194 0 2 2 10 30 15 1 2
+* Waterelemental 5594 181 0 2 2 10 25 12 1 1
+* Earthelemental 5571 158 -10 2 2 10 30 15 1 2
+* Scorpion 5572 158 -10 2 2 10 30 15 1 2
+* Earthelemental 5593 141 10 2 2 10 30 15 1 2
+* Fireelemental 5594 141 10 2 2 10 30 15 1 2
+* TreasureChestLevel1 5398 148 20 2 1 2 1 1 1 1
+* TreasureChestLevel2 5545 153 20 2 1 2 1 1 1 1
+* TreasureChestLevel2 5594 139 10 2 1 2 1 1 1 1
+* TreasureChestLevel2 5604 166 0 2 1 2 1 1 1 1
+* TreasureChestLevel2 5608 190 0 2 1 2 1 1 1 1
+* TreasureChestLevel2 5605 202 0 2 1 2 1 1 1 1
+* TreasureChestLevel2 5439 137 20 2 1 2 1 1 1 1
+* TreasureChestLevel2 5390 145 20 2 1 2 1 1 1 1
+* TreasureChestLevel2 5456 157 0 2 1 2 1 1 1 1
+* TreasureChestLevel2 5410 170 0 2 1 2 1 1 1 1
+* TreasureChestLevel2 5415 189 0 2 1 2 1 1 1 1
+* TreasureChestLevel2 5396 226 10 2 1 2 1 1 1 1
+* TreasureChestLevel3 5553 146 20 2 1 2 1 1 1 1
+* TreasureChestLevel3 5595 147 10 2 1 2 1 1 1 1
+* TreasureChestLevel3 5615 173 0 2 1 2 1 1 1 1
+* TreasureChestLevel3 5616 184 0 2 1 2 1 1 1 1
+* TreasureChestLevel3 5456 143 20 2 1 2 1 1 1 1
+* TreasureChestLevel3 5432 158 0 2 1 2 1 1 1 1
+* TreasureChestLevel3 5474 176 0 2 1 2 1 1 1 1
+* TreasureChestLevel3 5406 177 0 2 1 2 1 1 1 1
+* TreasureChestLevel3 5405 185 0 2 1 2 1 1 1 1
+* TreasureChestLevel3 5405 200 0 2 1 2 1 1 1 1
+* TreasureChestLevel3 5403 235 10 2 1 2 1 1 1 1
+* TreasureChestLevel4 5475 190 0 2 1 2 1 1 1 1
+##
+## Level 4
+##
+* Airelemental 5875 44 0 2 2 10 30 15 1 2
+* Fireelemental 5856 107 10 2 2 10 30 15 1 2
+** Evilmage 5819 50 0 2 2 10 25 10 1 1
+* Evilmagelord 5819 51 0 2 2 10 25 10 1 1
+* Eldergazer 5818 80 0 2 2 10 30 10 1 2
+* Airelemental 5804 12 0 2 2 10 30 15 1 2
+* Bloodelemental 5721 12 10 2 2 10 30 15 1 1
+* Fireelemental 5661 16 -10 2 2 10 30 15 1 2
+* Earthelemental 5649 101 10 2 2 10 30 15 1 2
+* Bloodelemental 5684 117 0 2 2 10 30 15 1 2
+* Earthelemental 5724 118 0 2 2 10 30 15 1 2
+* Fireelemental 5724 117 0 2 2 10 30 15 1 2
+* Fireelemental 5761 98 0 2 2 10 30 15 1 1
+* Scorpion 5759 100 0 2 2 10 30 15 1 1
+* Waterelemental 5711 98 0 2 2 10 25 12 1 1
+* Waterelemental 5752 43 0 2 2 10 25 12 1 1
+* Waterelemental 5708 44 0 2 2 10 25 12 1 1
+* TreasureChestLevel1 5730 90 0 2 1 2 1 1 1 1
+* TreasureChestLevel1 5723 73 0 2 1 2 1 1 1 1
+* TreasureChestLevel1 5715 61 5 2 1 2 1 1 1 1
+* TreasureChestLevel1 5701 60 5 2 1 2 1 1 1 1
+* TreasureChestLevel2 5817 83 0 2 1 2 1 1 1 1
+* TreasureChestLevel2 5730 93 0 2 1 2 1 1 1 1
+* TreasureChestLevel2 5723 77 0 2 1 2 1 1 1 1
+* TreasureChestLevel2 5717 60 0 2 1 2 1 1 1 1
+* TreasureChestLevel2 5699 61 0 2 1 2 1 1 1 1
+* TreasureChestLevel3 5817 78 0 2 1 2 1 1 1 1
+* TreasureChestLevel3 5733 91 0 2 1 2 1 1 1 1
+* TreasureChestLevel3 5725 78 0 2 1 2 1 1 1 1
+* TreasureChestLevel3 5715 58 2 2 1 2 1 1 1 1
+* TreasureChestLevel3 5698 57 5 2 1 2 1 1 1 1
+* TreasureChestLevel4 5733 93 0 2 1 2 1 1 1 1
+* TreasureChestLevel4 5727 72 0 2 1 2 1 1 1 1
+* TreasureChestLevel4 5717 58 5 2 1 2 1 1 1 1
+* TreasureChestLevel4 5701 58 2 2 1 2 1 1 1 1

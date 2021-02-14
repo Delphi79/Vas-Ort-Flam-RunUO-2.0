@@ -1,0 +1,82 @@
+overrideid 161
+overridemap 1
+overridemintime 5
+overridemaxtime 5
+## By Nerun
+## V1.0
+##
+* airelemental:ettin:gargoyle:orc:troll 423 1595 0 2 5 10 30 30 1 7
+* airelemental:ettin:gargoyle:orc:troll 418 1665 0 2 5 10 30 30 1 7
+* airelemental:ettin:gargoyle:orc:troll 480 1641 0 2 5 10 30 30 1 7
+* airelemental:ettin:gargoyle:orc:troll 516 1585 0 2 5 10 30 30 1 7
+* airelemental:ettin:gargoyle:orc:troll 541 1645 0 2 5 10 30 30 1 7
+* timberwolf 4504 1458 8 2 5 10 30 30 1 7
+* timberwolf 4494 1426 8 2 5 10 30 30 1 7
+* timberwolf 4455 1434 10 2 5 10 30 30 1 7
+* timberwolf 4456 1405 8 2 5 10 30 30 1 7
+* timberwolf 4455 1358 10 2 5 10 30 30 1 7
+* greathart:hind:hind:hind:hind:hind:hind 4550 1409 8 2 5 10 30 30 1 7
+* greathart:hind:hind:hind:hind:hind:hind 4552 1447 10 2 5 10 30 30 1 7
+* greathart:hind:hind:hind:hind:hind:hind 4615 1469 0 2 5 10 30 30 1 7
+* greathart:hind:hind:hind:hind:hind:hind 4612 1418 0 2 5 10 30 30 1 7
+* greathart:hind:hind:hind:hind:hind:hind 4605 1365 0 2 5 10 30 30 1 7
+* greathart:hind:hind:hind:hind:hind:hind 4566 1359 8 2 5 10 30 30 1 7
+* ettin:harpy:headlessone:ogre:orc:troll:wisp 2372 210 0 2 5 10 30 30 1 10
+* ettin:harpy:headlessone:ogre:orc:troll:wisp 2355 179 0 2 5 10 30 30 1 10
+* ettin:harpy:headlessone:ogre:orc:troll:wisp 2351 148 0 2 5 10 30 30 1 10
+* ettin:harpy:headlessone:ogre:orc:troll:wisp 2345 112 0 2 5 10 30 30 1 10
+* ettin:harpy:headlessone:ogre:orc:troll:wisp 2328 67 0 2 5 10 30 30 1 10
+* alligator:snake 2038 1023 0 2 5 10 30 30 1 6
+* alligator:snake 2079 1018 0 2 5 10 30 30 1 6
+* alligator:snake 2067 989 0 2 5 10 30 30 1 6
+* alligator:snake 2028 987 0 2 5 10 30 30 1 6
+* alligator:snake 2033 936 0 2 5 10 30 30 1 6
+* alligator:snake 1990 976 0 2 5 10 30 30 1 6
+* alligator:snake 1993 1030 0 2 5 10 30 30 1 6
+* alligator:snake 2035 1018 0 2 5 10 30 30 1 6
+* alligator:snake 2023 1052 0 2 5 10 30 30 1 6
+* alligator:snake 2069 1028 0 2 5 10 30 30 1 6
+* alligator:snake 2048 1066 0 2 5 10 30 30 1 6
+* ettin:gargoyle:gazer:ogre:orc:troll 1983 1517 0 2 5 10 30 30 1 7
+* ettin:gargoyle:gazer:ogre:orc:troll  1986 1463 0 2 5 10 30 30 1 7
+* ettin:gargoyle:gazer:ogre:orc:troll  1969 1409 0 2 5 10 30 30 1 7
+* mongbat:mongbat:mongbat:orc:orc 1912 1302 0 2 5 10 30 30 1 5
+* mongbat:mongbat:mongbat:orc:orc 1967 1296 0 2 5 10 30 30 1 5
+* mongbat:mongbat:mongbat:orc:orc 1898 1265 0 2 5 10 30 30 1 5
+* mongbat:mongbat:mongbat:orc:orc 1872 1347 0 2 5 10 30 30 1 5
+* mongbat:mongbat:mongbat:orc:orc 1812 1314 0 2 5 10 30 30 1 5
+* mongbat:mongbat:mongbat:orc:orc 1797 1393 0 2 5 10 30 30 1 5
+* mongbat:mongbat:mongbat:orc:orc 1862 1434 0 2 5 10 30 30 1 5
+* mongbat:mongbat:mongbat:orc:orc 1877 1515 0 2 5 10 30 30 1 5
+* mongbat:mongbat:mongbat:orc:orc 1802 1506 0 2 5 10 30 30 1 5
+* mongbat:mongbat:mongbat:orc:orc 1692 1463 0 2 5 10 30 30 1 5
+* mongbat:mongbat:mongbat:orc:orc 1833 1245 0 2 5 10 30 30 1 5
+* mongbat:mongbat:mongbat:orc:orc 1726 1362 0 2 5 10 30 30 1 5
+* mongbat:mongbat:mongbat:orc:orc 1640 1431 0 2 5 10 30 30 1 5
+* ettin:ogre:orc:ratman 2177 3034 0 2 5 10 30 30 1 7
+* ettin:ogre:orc:ratman 2143 3068 20 2 5 10 30 30 1 7
+* orc:ratman 1055 1442 0 2 5 10 30 30 1 6
+* orc:ratman 1021 1415 0 2 5 10 30 30 1 6
+* orc:ratman 1060 1375 0 2 5 10 30 30 1 6
+* orc:ratman 1004 1369 0 2 5 10 30 30 1 6
+* orc:ratman 1037 1325 0 2 5 10 30 30 1 6
+* orc:ratman 971 1308 0 2 5 10 30 30 1 6
+## Orc Fort
+##
+##* Savageshaman 2171 1356 0 2 5 10 30 30 1 1
+##* Savage 2171 1356 0 2 5 10 30 30 1 3
+##* Savagerider 2171 1356 0 2 5 10 30 30 1 2
+* Orc 2171 1356 0 2 5 10 30 30 1 5
+* Orcishlord 2171 1356 0 2 5 10 30 30 1 3
+* Orcishmage 2171 1356 0 2 5 10 30 30 1 2
+##* Savageshaman 2184 1376 0 2 5 10 30 15 1 1
+##* Savage 2184 1376 0 2 5 10 30 15 1 3
+##* Savagerider 2184 1376 0 2 5 10 30 15 1 2
+* Orc 2184 1376 0 2 5 10 30 15 1 5
+* Orcishlord 2184 1376 0 2 5 10 30 15 1 3
+* Orcishmage 2184 1376 0 2 5 10 30 15 1 2
+##
+* TreasureChestLevel2 2155 1370 0 2 1 2 2 2 1 1
+* TreasureChestLevel3 2155 1370 0 2 1 2 2 2 1 2
+* TreasureChestLevel2 2203 1379 0 2 1 2 2 2 1 1
+* TreasureChestLevel3 2203 1379 0 2 1 2 2 2 1 2

@@ -1,0 +1,7 @@
+Armor
+=====
+-Removed drops on armor that contains magic spells, this was implemented by mistake with unfinished code
+
+Misc
+====
+-Gold weight has been upped to 0.02 per gold piece to reflect the time period.  This means every 50 gold = 1 stone.

@@ -1,0 +1,7 @@
+Regions
+=======
+-You can no longer recall in or out of wind.
+
+Guilds
+======
+-We have implemented the new guild system, this system allows for allies, timed wars, wars that depend on deathcount. Instead of using a guildstone, you access your guild menu from your paperdoll.

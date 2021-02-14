@@ -1,0 +1,17 @@
+Spells
+======
+-Harm is now distance based.
+-Mindblast should do more accurate damage.
+-Magic Arrow damage has been increased slightly.
+-Magic Resist has been tweaked slightly.
+
+Skills/Stats
+============
+-Stat gain has been increased.
+
+Misc
+====
+-No pets will follow through the gate to the training area.
+-Anyone found with pets in the training area will have their pet removed and will recieve 24 hours of jail time. Consider this your first and only warning.
+-Murderers should now be able to heal other murderers in town without flagging criminal.
+-All items that should stay in your pack on death, should stay in the same location.

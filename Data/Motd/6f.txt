@@ -1,0 +1,9 @@
+Houses
+======
+-Doors on custom housing should be accessible to everyone.
+-Container weight limits should be fixed.
+-Locking down a contianer will now lockdown each item inside as well.
+
+Skills
+======
+-Peacemaking is fixed.

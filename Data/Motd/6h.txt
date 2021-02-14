@@ -1,0 +1,7 @@
+Weapons
+=======
+-You may no longer run and shoot arrows at the same time, you must now be stopped for 1 second before your will shoot again.
+
+Houses
+======
+-Custom house owners should have no more issues banning monsters.

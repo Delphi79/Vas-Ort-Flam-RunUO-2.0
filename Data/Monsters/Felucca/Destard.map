@@ -1,0 +1,81 @@
+overrideid 61
+overridemap 1
+overridemintime 5
+overridemaxtime 10
+## By Nerun
+##
+## Destard Dungeon (v1.2)
+##
+##
+## Level 1 - First Big Lair (entrance)
+##
+* Dragon 5209 965 -40 2 2 10 50 30 1 1
+* Drake 5209 966 -40 2 2 10 50 30 1 2
+* Slime 5210 965 -40 2 2 10 50 30 1 1
+* Dragon 5247 956 -40 2 2 10 50 30 1 1
+* Drake 5248 956 -40 2 2 10 50 30 1 2
+* Slime 5280 955 -40 2 2 10 50 30 1 1
+* Drake 5279 955 -39 2 2 10 50 30 1 2
+* Wyvern 5280 956 -40 2 2 10 50 30 1 1
+* Dragon 5284 926 -40 2 2 10 50 30 1 1
+* Slime 5283 926 -40 2 2 10 50 30 1 2
+* GiantRat 5284 927 -40 2 2 10 50 30 1 1
+* Slime 5214 917 -40 2 2 10 50 30 1 1
+* Drake 5213 917 -40 2 2 10 50 30 1 2
+* GiantRat 5213 918 -40 2 2 10 50 30 1 1
+* TreasureChestLevel3 5240 945 -40 2 1 2 10 10 1 1
+* TreasureChestLevel4 5242 946 -40 2 1 2 10 10 1 2
+##
+## Level 1 - Left Arm
+##
+* Giantserpent 5161 940 0 2 2 10 50 20 1 6
+* Slime 5149 907 0 2 2 10 20 15 1 1
+* Slime 5150 907 0 2 2 10 20 15 1 1
+* Slime 5149 908 0 2 2 10 20 15 1 1
+* TreasureChestLevel2 5141 915 0 2 1 2 25 25 1 1
+* TreasureChestLevel3 5142 916 0 2 1 2 25 25 1 2
+##
+## Level 1 - Right Arm
+##
+* Waterelemental 5352 934 -5 2 2 10 10 10 1 4
+* TreasureChestLevel3 5317 980 0 2 1 2 7 7 1 1
+* TreasureChestLevel4 5317 979 0 2 1 2 7 7 1 2
+##
+## Level 1 - Second Big Lair (near Shrine)
+##
+* Giantserpent 5250 869 0 2 2 10 50 30 1 6
+* Dragon 5226 826 0 2 2 10 50 30 1 1
+* Slime 5226 827 0 2 2 10 50 30 1 2
+* Slime 5227 826 0 2 2 10 50 30 1 1
+* Slime 5269 811 7 2 2 10 50 30 1 1
+* Slime 5269 810 6 2 2 10 50 30 1 2
+* Slime 5270 811 7 2 2 10 50 30 1 1
+* Slime 5307 815 0 2 2 10 50 30 1 1
+* Slime 5306 815 0 2 2 10 50 30 1 1
+* Waterelemental 5294 842 0 2 2 10 50 30 1 4
+* Waterelemental 5203 787 5 2 2 10 25 12 1 4
+* TreasureChestLevel2 5228 841 0 2 1 2 10 10 1 1
+* TreasureChestLevel3 5231 841 2 2 1 2 10 10 1 2
+* TreasureChestLevel3 5205 778 0 2 1 2 7 7 1 1
+##
+## Level 2
+##
+* Drake 5141 834 0 2 2 10 50 30 1 1
+* Slime 5140 834 0 2 2 10 50 30 1 1
+* Wyvern 5141 835 0 2 2 10 50 30 1 1
+* Daemon 5169 836 0 2 2 10 50 30 1 2
+* Evilmage 5168 836 0 2 2 10 50 30 1 1
+* Drake 5152 869 0 2 2 10 50 25 1 1
+* Slime 5153 869 0 2 2 10 50 25 1 1
+* Slime 5152 868 0 2 2 10 50 25 1 1
+* TreasureChestLevel4:TreasureChestLevel3:TreasureChestLevel2 5153 842 0 2 1 2 40 40 1 4
+##
+## Level 3 - Ancient Wyrm Lair
+##
+* Fireelemental 5141 968 0 2 2 10 10 10 1 1
+* Slime:Slime:Giantserpent 5157 997 0 2 2 10 50 20 1 3
+* Ancientwyrm 5185 1006 0 2 2 10 50 20 1 1
+* TreasureChestLevel3 5143 986 0 2 1 2 10 10 1 1
+* TreasureChestLevel3 5183 1007 0 2 1 2 10 10 1 1
+* TreasureChestLevel4 5144 986 0 2 1 2 10 10 1 2
+* TreasureChestLevel4 5184 1007 0 2 1 2 10 10 1 2

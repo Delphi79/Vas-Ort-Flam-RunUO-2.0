@@ -1,0 +1,15 @@
+Accounting
+==========
+-With the installation of the new accounting system, we highly recommend you register each account to an email address.  This will be the only way for you to change your password incase your account gets compromised.
+
+Houses
+======
+-They should be fixed and working as normal.
+-Anyone not friended to a private house will flag grey to the owner and friends.
+-Containers that are locked will also lockdown all items inside.
+-Doors and Teleporters should now work reguardless of being friended or not.
+
+Misc
+========
+-The Project X Emporium is now under protection of the town guards.
+-Weapon and Armor names have been updated to work more properly.

@@ -1,0 +1,20 @@
+Houses
+======
+-Fixed a bug involving items in houses exceeding the lockdown limit.  
+-Fixed a bug preventing users from locking their doors and creating house keys.  
+-Non-custom houses will now use custom house menus.
+-House decay has been set to 30 days.
+
+Misc
+====
+-Trapped Containers should work properly.
+-Pets will now follow through event moongates.
+
+Weapons
+=======
+-Damage done to monsters should be greatly increased.
+
+Emporium
+========
+-The Project X Emporium is now under protection of town guards. It will not say it when you enter but remember you can get guardwhacked in there. If you don't want trouble, don't bring a red. Criminals are attackable in there.
+

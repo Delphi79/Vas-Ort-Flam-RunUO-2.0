@@ -1,0 +1,48 @@
+overrideid 240
+overridemap 1
+overridemintime 5
+overridemaxtime 10
+## By Nerun
+##
+## Do not exist spiderlord, then i did
+## 2 dreadspiders per block
+##
+## Trinsic Passage (v1.0)
+##
+* Dreadspider 5976 1387 -22 2 5 15 20 10 1 2
+* Fireelemental 5976 1387 -22 2 5 15 20 10 1 1
+* Hellcat 5976 1387 -22 2 5 15 20 10 1 1
+* Lavalizard 5976 1387 -22 2 5 15 20 10 1 1
+* Lavasnake 5976 1387 -22 2 5 15 20 10 1 1
+##* Spiderlord 5976 1387 -22 2 5 15 20 10 1 1
+##
+* Dreadspider 5940 1356 -2 2 5 15 20 10 1 2
+* Fireelemental 5940 1356 -2 2 5 15 20 10 1 1
+* Hellcat 5940 1356 -2 2 5 15 20 10 1 1
+* Lavalizard 5940 1356 -2 2 5 15 20 10 1 1
+* Lavasnake 5940 1356 -2 2 5 15 20 10 1 1
+##* Spiderlord 5940 1356 -2 2 5 15 20 10 1 1
+##
+* Dreadspider 5912 1326 0 2 5 15 20 10 1 2
+* Fireelemental 5912 1326 0 2 5 15 20 10 1 1
+* Hellcat 5912 1326 0 2 5 15 20 10 1 1
+* Lavalizard 5912 1326 0 2 5 15 20 10 1 1
+* Lavasnake 5912 1326 0 2 5 15 20 10 1 1
+##* Spiderlord 5912 1326 0 2 5 15 20 10 1 1
+##
+* Dreadspider 5956 1310 -2 2 5 15 20 10 1 2
+* Fireelemental 5956 1310 -2 2 5 15 20 10 1 1
+* Hellcat 5956 1310 -2 2 5 15 20 10 1 1
+* Lavalizard 5956 1310 -2 2 5 15 20 10 1 1
+* Lavasnake 5956 1310 -2 2 5 15 20 10 1 1
+##* Spiderlord 5956 1310 -2 2 5 15 20 10 1 1
+##
+* Dreadspider 5999 1327 10 2 5 15 20 10 1 2
+* Fireelemental 5999 1327 10 2 5 15 20 10 1 1
+* Hellcat 5999 1327 10 2 5 15 20 10 1 1
+* Lavalizard 5999 1327 10 2 5 15 20 10 1 1
+* Lavasnake 5999 1327 10 2 5 15 20 10 1 1
+##* Spiderlord 5999 1327 10 2 5 15 20 10 1 1
+##
+* TreasureChestLevel2 5915 1302 2 2 1 2 1 1 1 1
+* TreasureChestLevel3 5915 1302 2 2 1 2 1 1 1 2

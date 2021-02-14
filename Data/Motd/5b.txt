@@ -1,0 +1,20 @@
+Spells
+======
+-Mindblast now does slightly less damage.
+
+Duels
+=====
+-Duels should fix your noto to the opposing contested when finished dueling.
+
+Mobiles
+=======
+-Drakes no longer have Fire Breath.
+
+Misc
+=======
+-Daily Rares have now been implemented and will only spawn once every 24 to 25 hrs in various locations.
+-Metal Puzzle Boxes have now been placed in radmon locations.
+
+Regions
+=======
+-Guard Zoned regions should now be more accurate to this style of uo.

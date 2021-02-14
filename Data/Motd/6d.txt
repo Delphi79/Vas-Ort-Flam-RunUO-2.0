@@ -1,0 +1,7 @@
+Guilds
+======
+-Trying a completely new strategy with Guilds now, Please test them out at your own risk, im hoping they stay this time.
+
+Misc
+====
+-Due to issues with the dueling system, it has been disabled until the new dueling system is complete.  Thank you for your patience.

@@ -1,0 +1,10 @@
+Combat
+======
+-Any player in Factions or Chaos/Order guild may no longer recall or use a moongate(public or cast) to flee combat.  This applies to attacking someone or even being attacked. This was applied to Chaos/Order due to the last fix that allowed Faction guilds to be Chaos/Order at the same time.
+-Training room was fixed, pets shouldn't follow anyone through the moongate anymore.
+-Instahit was removed by popular demand.
+
+Misc
+====
+-The message gump for the command [on has been sexyfied.
+-Some other small fixes for minor things that i forgot to write down :)

@@ -1,0 +1,8 @@
+Guilds
+======
+-Guilds made from today forward should no longer delete.
+
+Misc
+====
+-Weapon damage vs Armor should be a little better now.
+-OK, Seriously, wands should no longer be identified.

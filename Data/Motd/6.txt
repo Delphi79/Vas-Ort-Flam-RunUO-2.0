@@ -1,0 +1,33 @@
+Spells
+======
+-Area effect spells will now do damage to anyone in the area reguardless of notoriety.
+-BS's and EV's were slightly tweaked and now poison their opponent.
+-BS's and Ev's will now attack the person with the most int(EV) or dex(BS) within 10 tiles.  This may be adjusted in the future.
+
+Armor
+=====
+-The entire algorithm for armor absorbtion was re-code to fit UOR.
+
+Misc
+====
+-All weapons, wands, jewelry and armor should have UOR magic effects and the effects should work OnEquip or OnHit depending on the item.
+-Monster corpses should be grey to everyone when the monster is killed.
+
+Potions
+=======
+-Explode potion timers are a little more random.
+-Explode potion damages have been slightly reduced.
+
+Skills
+======
+-Discord is no longer usable.
+-Karma may no longer be locked.
+
+Vendors
+=======
+-Vendors will sell items  with the same hue as the purchasing gump. 
+
+Champion Spawns
+=======
+-2 new champion spawns have been placed in T2A. One is east of Delucia and the other is in the Terra Sanctum, north east of Papua.
+

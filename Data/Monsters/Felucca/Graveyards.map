@@ -1,0 +1,44 @@
+overrideid 91
+overridemap 1
+overridemintime 5
+overridemaxtime 10
+## By Nerun
+## v1.3
+##
+## Graveyards
+##
+## Britain Graveyard
+##
+* Zombie:Zombie 1369 1475 10 2 5 10 30 20 1 1
+* Skeleton 1369 1476 10 2 5 10 30 20 1 2
+* Zombie 1368 1476 10 2 5 10 30 20 1 3
+##
+## Jhelom Graveyard
+##
+* Zombie:Zombie:Zombie 1285 3731 0 2 5 10 15 10 1 2
+* Skeleton 1285 3731 0 2 5 10 15 10 1 3
+* Zombie 1285 3731 0 2 5 10 15 10 1 4
+##
+## Cove Graveyard
+##
+* Skeleton:Zombie:Zombie 2438 1100 8 2 5 10 20 10 1 1
+* Zombie 2437 1100 8 2 5 10 20 10 1 1
+* Skeleton 2437 1101 8 2 5 10 20 10 1 1
+* Zombie 2438 1101 8 2 5 10 20 10 1 1
+##
+## Moonglow Graveyard
+##
+* Skeleton:Zombie:Skeleton 4545 1317 8 2 5 10 20 10 1 1
+* Skeleton 4543 1314 8 2 5 10 20 10 1 1
+* Skeleton 4544 1317 8 2 5 10 20 10 1 1
+* Zombie 4544 1318 8 2 5 10 20 10 1 1
+##
+## Vesper Graveyard
+##
+* Zombie:Zombie 2758 867 0 2 5 10 20 20 1 2
+* Skeleton 2757 868 0 2 5 10 20 20 1 3
+* Zombie 2758 868 0 2 5 10 20 20 1 4
+##
+## Yew Graveyard
+##
+* Skeleton 722 1119 0 2 5 10 20 20 1 10
